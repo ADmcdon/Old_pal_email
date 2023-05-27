@@ -1,0 +1,131 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Courier" href="https://fonts.googleapis.com/css2?family=Courier+Prime" />
+        <mj-attributes>
+            <mj-text font-family="Courier Prime, monospace;" align="center" font-size="18px" line-height="26px"
+                color="#fff2d7" padding="0px" />
+            <mj-image src="" alt="" padding="0px" />
+            <mj-button background-color="#ef775b" font-size="12px" color="#fffdfa"
+                font-family="Courier Prime, monospace;" font-weight="700" text-transform="uppercase"
+                border-radius="25px" height="35px" width="200px" />
+            <mj-section padding="0" background-color="#7393c6" />
+            <mj-class name="head-text" font-size="48px" line-height="69px" text-transform="uppercase" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="600px" background-color="#7393c6">
+        <!-- logo -->
+        <mj-section>
+            <mj-column width="560px">
+                <mj-image padding="10px"
+                    src="https://d3k81ch9hvuctc.cloudfront.net/company/HSc6TP/images/ee46f0ba-615a-45ee-a90e-542aa3862fb7.png"
+                    alt="LOGO" />
+            </mj-column>
+        </mj-section>
+        <!-- logo -->
+        <!-- slogan -->
+        <mj-section>
+            <mj-column width="560px" padding-top="10px" padding-bottom="10px">
+                <mj-text font-size="18px">
+                    AN ALL NEW JOURNAL JOINT FOR YOU
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- slogan -->
+        <!-- banner -->
+        <mj-section>
+            <mj-column width="560px">
+                <mj-image
+                    src="https://d3k81ch9hvuctc.cloudfront.net/company/HSc6TP/images/f5571e59-fcdc-45c6-ac44-b827a9442587.jpeg"
+                    alt="" />
+            </mj-column>
+        </mj-section>
+        <!-- banner -->
+        <!-- text-section -->
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="20px" padding="20px 40px 0">
+                    <h2 style="font-weight:900;">A Higher Level of Fitness: Combining Weed and Exercise</h2>
+                </mj-text>
+                <mj-text font-size="18px" padding="0 50px 20px" >
+                    Whether it’s to get motivated, aid in recovery, or enhance the overall experience, cannabis is proving to be a beneficial addition to many exercise regimens.
+                </mj-text>
+                <mj-text font-size="18px" padding="0 50px" >
+                    Looking for a few more reasons to power up your workout with a little bit of pot? Here’s a few.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- text-section -->
+        <!-- banner -->
+        <mj-section>
+            <mj-column width="560px" padding-top="40px">
+                <mj-image
+                    src="https://d3k81ch9hvuctc.cloudfront.net/company/HSc6TP/images/46fe9ead-26ae-44d0-a98c-cf7f52d63d7e.jpeg"
+                    alt=""/>
+            </mj-column>
+        </mj-section>
+        <!-- banner -->
+        <!-- divider -->
+         <mj-section>
+            <mj-column width="560px" padding="40px 0">
+                <mj-text>
+                    <div style="height:1px; background-color:white;"></div>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- divider -->
+        <!-- text-section -->
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="20px" padding="20px 40px 0">
+                    ROLL WITH US
+                </mj-text>
+                <mj-text font-size="18px" padding="0 50px 20px" >
+                    OLD PAL COSMIC COGNITION COMPANY
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- text-section -->
+        <!-- text-section -->
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="18px" >
+                   <a href="#" style="color:inherit">Visit the Website</a> 
+                </mj-text>
+                
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="18px">
+                    <a href="#" style="color:inherit">FOLLOW US ON INSTAGRAM</a> 
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- text-section -->
+        <!-- text-section -->
+        <mj-section>
+            <mj-column >
+                <mj-text font-size="8px" padding="20px 80px 10px" >
+                    WE WILL CONTINUE TO SEND YOU EMAILS UNLESS YOU WANT TO UNSUBSCRIBE. WE'LL BE SAD TO SEE YOU LEAVE, BUT WE KNOW HOW IT GOES. YOU CAN EASILY <a href="#" style="color:inherit;"in>Unsubscribe HERE.</a> 
+                </mj-text>
+                <mj-text font-size="8px" padding="0 80px 10px" >
+                    OLD PAL PROVISIONS - 578 WASHINGTON BLVD, MARINA DEL REY, CA 90291 PO BOX #844
+                </mj-text>
+                <mj-text font-size="8px" padding="0 80px" >
+                    Cannabis products are intended for consumption only in the state in which they are purchased. Transportation of cannabis or cannabis products across state lines is prohibited. For use by persons 21 years of age or older and qualified patients only. 
+                </mj-text>
+                <mj-text font-size="8px" padding="10px 80px" >
+                    LIC-C11-0001255
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- text-section -->
+         <!-- banner -->
+        <mj-section>
+            <mj-column width="75px" padding-top="40px">
+                <mj-image
+                    src="https://d3k81ch9hvuctc.cloudfront.net/company/HSc6TP/images/def2dfeb-f6e2-4b81-bc18-28f54e61b1e7.png"
+                    alt=""/>
+            </mj-column>
+        </mj-section>
+        <!-- banner -->
+    </mj-body>
+</mjml>
